@@ -1,0 +1,10 @@
+{
+	"description": "Generates a pre-made teams add-on, scalable and customizable. Appends itself to developed packs.",
+	"filters": [
+		{
+			"runWith": "nodejs",
+			"script": "./scalable-teams.js",
+			"name": "Applying Scalable Teams Add-on"
+		}
+	]
+}

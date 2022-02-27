@@ -1,0 +1,12 @@
+{
+  "name": "scalable-teams",
+  "version": "1.0.0",
+  "description": "Generates a pre-made teams add-on, scalable and customizable. Appends itself to developed packs.",
+  "main": "scalable-teams.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cda94581/regolith-filters.git"
+  },
+  "author": "cda94581",
+  "license": "MIT"
+}
