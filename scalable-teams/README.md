@@ -1,5 +1,5 @@
 # scalable-teams
-> Note: As of right now, the current URL fails with *regolith*. Please use [github.com/cda94581/regolith-filters/premade-scalable-teams](https://github.com/cda94581/regolith-filters/premade-scalable-teams) as the proper URL for the time being.
+> Note: As of right now, the current URL fails with *regolith*. Please use [github.com/cda94581/regolith-premade-addons/scalable-teams](github.com/cda94581/regolith-premade-addons/scalable-teams) as the proper URL for the time being.
 
 Generates a pre-made teams add-on, scalable and customizable. Appends itself to developed packs.
 
