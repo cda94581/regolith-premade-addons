@@ -77,7 +77,7 @@ function next() {
 
 	if (fs.existsSync('BP/pack_icon.png')) return;
 	console.log('Creating pack_icon.png.');
-	fs.copyFile('data/premade-scalable-teams/pack_icon.png', 'BP/pack_icon.png', err => { if (err) throw err; });
+	fs.copyFile('data/scalable-teams/pack_icon.png', 'BP/pack_icon.png', err => { if (err) throw err; });
 	
 	console.log('Success!');
 }
